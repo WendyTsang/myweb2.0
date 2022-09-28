@@ -1,0 +1,143 @@
+body {
+  font-family: Mochiy Pop P One;
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+}
+
+.p {
+  line-height: 2
+}
+
+h1{
+  font-size: 80px;
+  margin: 50px auto 0 auto;
+  font-family: Mochiy Pop P One;
+  color: #2F8F9D;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: Mochiy Pop P One;
+  color: #2F8F9D;
+  font-weight: normal;
+
+}
+
+h3 {
+  font-family: Mochiy Pop P One;
+  color: #3BACB6;
+}
+
+.top-container {
+  background-color: #B3E8E5;
+  position: relative;
+  padding: 100px;
+}
+
+.middle-container {
+
+}
+
+.profile {
+  padding-top: 20px;
+  margin: 50px auto 50px auto;
+}
+
+.bottom-container {
+  background-color: #B3E8E5;
+  padding: 50px 0 20px;
+  margin-top: 100px;
+}
+
+.title {
+  margin: 30px auto 0 auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+.popcorn {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.hiking {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 90px auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 30px auto 80px auto;
+}
+
+.btn {
+  background: #0abec7;
+  background-image: -webkit-linear-gradient(top, #0abec7, #0abec7);
+  background-image: -moz-linear-gradient(top, #0abec7, #0abec7);
+  background-image: -ms-linear-gradient(top, #0abec7, #0abec7);
+  background-image: -o-linear-gradient(top, #0abec7, #0abec7);
+  background-image: linear-gradient(to bottom, #0abec7, #0abec7);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Mochiy Pop P One;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #00d4bf;
+  background-image: -webkit-linear-gradient(top, #00d4bf, #00d4bf);
+  background-image: -moz-linear-gradient(top, #00d4bf, #00d4bf);
+  background-image: -ms-linear-gradient(top, #00d4bf, #00d4bf);
+  background-image: -o-linear-gradient(top, #00d4bf, #00d4bf);
+  background-image: linear-gradient(to bottom, #00d4bf, #00d4bf);
+  text-decoration: none;
+}
+
+a {
+  color: #11999E;
+  font-family: Mochiy Pop P One;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  padding: 20px 0;
+
+}
